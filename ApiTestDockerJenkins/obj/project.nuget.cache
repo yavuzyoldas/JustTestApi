@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2lkiLGGUqZtFZ4YbuZAwFKHb/i/nbJakL6VAeYyxEdCDZN6ErZFp2tAHL8gb306+wbGgEyH07ay/i75fXN5Mg==",
+  "success": true,
+  "projectFilePath": "D:\\ProgramFiles\\Microsoft Visual Studio\\SampleProjects\\ApiTestDockerJenkins\\ApiTestDockerJenkins\\ApiTestDockerJenkins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y00598996\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
